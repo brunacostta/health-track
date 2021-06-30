@@ -1,0 +1,164 @@
+body{
+    background: #bfc0c0;
+    font-family:'Tahoma'
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.imagem-logo{
+    border: 5px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.wrapper {
+    width: 600px;
+    height: auto;
+    position: absolute;
+    border: 5px;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: 30px;
+}
+
+.form-horizontal{
+    color: rgb(12, 15, 19);
+    font-size: 30px;
+    height: auto;
+    margin: 60px ;
+}
+
+.social{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.facebook button{
+    margin: 0 auto;
+    display: block;
+}
+
+.google button{
+    margin: 0 auto;
+    display: block;
+}
+
+.email-comum button{
+    margin: 0 auto;
+    display: block;
+}
+
+.btn-submit{
+    display: block;
+    margin: 0 20%;
+}
+
+.lembre-me{
+    font-size: 15px;
+    height: auto;
+    margin: 5px ;
+}
+
+.categoria{
+    color: rgb(0, 0, 0);
+    padding: 20px 10% 70px 10%;
+}
+
+.sub-categoria{
+    margin-top: 20px;
+}
+
+.btn-sub-categoria{
+    width: 50%;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.btn-sub-categoria img {
+    margin-right: 20px;
+}
+
+.perfil{
+    padding: 20px 10% 70px 10%;
+}
+
+.lista-peso{
+    padding: 20px 10%;
+}
+
+.painel-item {
+    background-color: #87a3bb;
+    padding: 10px;
+    color: #fff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.painel-item p {
+    margin: 0;
+}
+
+.painel-item p span {
+    display: block;
+}
+
+.painel-item .perc {
+    text-align: right;
+}
+
+.today h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.box {
+    background: #fff;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.box p {
+    margin-bottom: 0;
+}
+
+.ranking h3{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.painel-item{
+    margin: 20px auto;
+}
+
+.painel-item-peso {
+    padding: 10px;
+    border-bottom: 1px solid grey;
+}
+
+.painel-item-peso p{
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.btn-center {
+    margin: 20px auto;
+    display: block;
+}
+
+.buscar-container {
+    width: 50%;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0;
+}
